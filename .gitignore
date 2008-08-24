@@ -1,0 +1,9 @@
+# ignore python object files anywhere in the tree
+*.pyc
+*.swp
+*~
+.coverage
+*.egg-info
+.DS_Store
+build/
+dist/
