@@ -1,0 +1,273 @@
+LOCUS       1                        148 bp     linear   1997 Feb
+DEFINITION  1, hvri
+ACCESSION   U75941
+VERSION     U75941.1  GI:1763365
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="USA"
+                     /continent="North America"
+                     /population="amish pedigree"
+                     /language_pub="english"
+                     /language_iso="English"
+                     /language_sil="English"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtgcc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtact tcgtacatta ctgccagcca ccatgaatat tgtaccgtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       2                        148 bp     linear   1997 Feb
+DEFINITION  2, hvri
+ACCESSION   U75942
+VERSION     U75942.1  GI:1763366
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="USA"
+                     /continent="North America"
+                     /population="utah pedigree"
+                     /language_pub="english"
+                     /language_iso="English"
+                     /language_sil="English"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgacttaccc atcaacaacc
+       61 gctatgtatt tcgtacatta ctgccagcca ccatgaatat tgcacggtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       3                        148 bp     linear   1997 Feb
+DEFINITION  3, hvri
+ACCESSION   U75943
+VERSION     U75943.1  GI:1763367
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="Venezuela"
+                     /continent="South America"
+                     /population="venezuelan pedigree"
+                     /language_pub="spanish"
+                     /language_iso="Castilian, Spanish"
+                     /language_sil="Spanish"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtatt tcgtacatta ctgccagtca ccatgaatat tgtacagtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       4                        148 bp     linear   1997 Feb
+DEFINITION  4, hvri
+ACCESSION   U75945
+VERSION     U75945.1  GI:1763369
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="South Africa"
+                     /continent="Africa"
+                     /population="bantu genomic male"
+                     /language_pub="Bantu (Niger-Kordofanian)"
+                     /language_iso="Bantu (Other)"
+                     /language_sil="Fanagolo"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtatt tcgtacatta ctgccagcca ccatgaatat tgtacagtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       5                        148 bp     linear   1997 Feb
+DEFINITION  5, hvri
+ACCESSION   U75946
+VERSION     U75946.1  GI:1763370
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="South Africa"
+                     /continent="Africa"
+                     /population="bantu genomic male"
+                     /language_pub="Bantu (Niger-Kordofanian)"
+                     /language_iso="Bantu (Other)"
+                     /language_sil="Fanagolo"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtntt tcgtacatta ctgccagcca ccatgaatat tgtacggtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       6                        148 bp     linear   1997 Feb
+DEFINITION  6, hvri
+ACCESSION   U75947
+VERSION     U75947.1  GI:1763371
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="South Africa"
+                     /continent="Africa"
+                     /population="khoisan genomic male"
+                     /language_pub="khoisan"
+                     /language_iso="Khoisan (Other)"
+                     /language_sil=""
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtatt tcgtacatta ctgccagcca ccatgaatat tgtacggtac cataaatact
+      121 tgaccacctg tagtacataa aaatccaa
+//
+LOCUS       7                        148 bp     linear   1997 Feb
+DEFINITION  7, hvri
+ACCESSION   U75948
+VERSION     U75948.1  GI:1763372
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 148)
+  AUTHORS   Hey J
+  TITLE     Mitochondrial and nuclear genes present conflicting portraits of human origins.
+  JOURNAL   Mol Biol Evol 1997 Feb;14(2):166-72.
+   PUBMED   9029794
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /country="South Africa"
+                     /continent="Africa"
+                     /population="khoisan genomic male"
+                     /language_pub="khoisan"
+                     /language_iso="Khoisan (Other)"
+                     /language_sil=""
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 ttctttcatg gggaagcaga tttgggtacc acccaagtat tgactcaccc atcaacaacc
+       61 gctatgtatt tcgtacatta ctgccagcca ccatgaatat tgtacagtac cataaatact
+      121 tgaccacctg tagtacataa aaacccaa
+//
+LOCUS       8                        408 bp     linear   1998 Dec 21
+DEFINITION  8, hvri
+ACCESSION   
+VERSION     .  GI:
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 408)
+  AUTHORS   Baasner A, Schafer C, Junge A, Madea B
+  TITLE     Polymorphic sites in human mitochondrial DNA control region sequences: population data and maternal inheritance.
+  JOURNAL   Forensic Sci Int 1998 Dec 21;98(3):169-78.
+   PUBMED   9924785
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..408
+                     /country="Germany"
+                     /continent="Europe"
+                     /population="European"
+                     /language_pub="German (Indo-Hittite)"
+                     /language_iso="German"
+                     /language_sil="German, Standard"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 attctaattt aaactattct ctgttctttc atggggaagc agatttgggt accacccaag
+       61 tattgactca cccatcaaca accgctatgt atttcgtaca ttactgccag ccaccatgaa
+      121 tattgtacgg taccataaat acttgaccac ctgtagtaca taaaaaccca atccacatca
+      181 aaaccccctc cccatgctta caagcaagta cagcaatcaa ccctcaacta tcacacatca
+      241 actgcaactc caaagccacc cctcacccac taggatacca acaaacctac ccacccttaa
+      301 cagtacatag tacataaagc catttaccgt acatagcaca ttacagtcaa atcccttctc
+      361 gtccccatgg atgacccccc tcagataggg gtcccttgac caccatcc
+//
+LOCUS       9                        408 bp     linear   1998 Dec 21
+DEFINITION  9, hvri
+ACCESSION   
+VERSION     .  GI:
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 408)
+  AUTHORS   Baasner A, Schafer C, Junge A, Madea B
+  TITLE     Polymorphic sites in human mitochondrial DNA control region sequences: population data and maternal inheritance.
+  JOURNAL   Forensic Sci Int 1998 Dec 21;98(3):169-78.
+   PUBMED   9924785
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..408
+                     /country="Germany"
+                     /continent="Europe"
+                     /population="European"
+                     /language_pub="German (Indo-Hittite)"
+                     /language_iso="German"
+                     /language_sil="German, Standard"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 attctaattt aaactattct ctgttctttc atggggaagc agatttgggt accacccaag
+       61 tattgactca cccatcaaca accgctatgt atttcgtaca ttactgccag ccaccatgaa
+      121 tattgtacgg taccataaat acttgaccac ctgtagtaca taaaaaccca atccacatca
+      181 aaaccccctc cccatgctta caagcaagta cagcaatcaa ccctcaacta tcacacatca
+      241 actgcaactc caaagccacc cctcacccac taggatacca acaaacctac ccacccttaa
+      301 cagtacatag tacataaagc catttaccgt acatagcaca ttacagtcaa atcccttctc
+      361 gtccccatgg atgacccccc tcagataggg gtcccttgac caccatcc
+//
+LOCUS       10                       408 bp     linear   1998 Dec 21
+DEFINITION  10, hvri
+ACCESSION   
+VERSION     .  GI:
+KEYWORDS    HvrBase
+SOURCE      REFERENCE   1  (bases 1 to 408)
+  AUTHORS   Baasner A, Schafer C, Junge A, Madea B
+  TITLE     Polymorphic sites in human mitochondrial DNA control region sequences: population data and maternal inheritance.
+  JOURNAL   Forensic Sci Int 1998 Dec 21;98(3):169-78.
+   PUBMED   9924785
+COMMENT     created by HvrBase
+FEATURES             Location/Qualifiers
+     source          1..408
+                     /country="Germany"
+                     /continent="Europe"
+                     /population="European"
+                     /language_pub="German (Indo-Hittite)"
+                     /language_iso="German"
+                     /language_sil="German, Standard"
+                     /location="Mitochondrion"
+                     /gene="Human mitochondrial control region I, partial sequence"
+ORIGIN
+        1 attctaattt aaactattct ctgttctttc atggggaagc agatttgggt accacccaag
+       61 tattgactca cccatcaaca accgctatgt atttcgtaca ttactgccag ccaccatgaa
+      121 tattgtacgg taccataaat acttgaccac ctgtagtaca taaaaaccca atccacatca
+      181 aaaccccctc ctcatgctta caagcaagta cagcaatcaa ccctcaacta tcacacatca
+      241 actgcaactc caaagtcacc cctcacccat taggatacca acaaatctac ccacccttaa
+      301 cagtacatag tacataaagt catttaccgt acatagcaca ttacagtcaa atcccttctc
+      361 gtccccatgg atgacccccc tcagataggg gtcccttggc caccatcc
+//
+
